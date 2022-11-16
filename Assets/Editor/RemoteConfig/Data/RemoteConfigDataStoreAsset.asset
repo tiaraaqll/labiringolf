@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"cd1f34c2-960f-472e-beba-71e52e0c3723\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Gravity\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 50.0\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"cd1f34c2-960f-472e-beba-71e52e0c3723\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Gravity\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 50.0\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"65b7e417-9305-47a4-b11b-203f8e9ece66\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"ce47f3d6-d634-496f-83eb-d6ae75a54ceb\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2022-11-16T04:14:31Z\",\r\n    \"updatedAt\":
+    \"2022-11-16T04:14:31Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"65b7e417-9305-47a4-b11b-203f8e9ece66\",\r\n   
+    \"name\": \"development\",\r\n    \"id\": \"9aa6a425-720d-40a8-94f7-69d34b7a4014\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2022-11-16T08:04:41Z\",\r\n   
+    \"updatedAt\": \"2022-11-16T08:04:41Z\"\r\n  }\r\n]"
